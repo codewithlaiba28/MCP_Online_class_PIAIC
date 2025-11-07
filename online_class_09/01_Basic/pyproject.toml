@@ -1,0 +1,10 @@
+[project]
+name = "online-class-09"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mcp>=1.20.0",
+    "openai-agents>=0.4.2",
+]
